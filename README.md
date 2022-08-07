@@ -1,6 +1,8 @@
 # flatpack
 A foldable fixed-bed-cantilever 3D-printer, that fits into a spoolbox and uses off-the-shelf parts only.
 
+https://imgur.com/S2FTFqy
+
 ###### Technical Data:
 - folded volume of roughly 220x210x75mm (so, make sure your spoolbox has that inner dimension, as there are some with slightly different dimensions)
 - buildvolume of 120x114x114mm, so 1.6 liters
