@@ -3,6 +3,9 @@ A foldable fixed-bed-cantilever 3D-printer, that fits into a spoolbox and uses o
 
 https://user-images.githubusercontent.com/66600478/183345870-d31b0fc4-497d-4f51-bbe5-db83cf9a2b46.mp4
 
+https://user-images.githubusercontent.com/66600478/183383424-e6a317a6-c26e-4fb0-95f7-5c3cc896b03f.mp4
+
+
 
 ###### Technical Data:
 - folded volume of roughly 220x210x75mm (so, make sure your spoolbox has that inner dimension, as there are some with slightly different dimensions)
