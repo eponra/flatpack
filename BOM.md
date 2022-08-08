@@ -16,3 +16,6 @@ the actual mounts needs a Hotend that uses the 2xM3 mounting option without chan
 - M3 Screws: As a Set, 6,98€ (https://de.aliexpress.com/item/4000062956240.html, 280pcs in the set, only M3)
 
 ##### All In thats 335,14€. All that is without postage or customs, so this price could still fluctuate a tad.
+
+Also, you could maybe save a few bucks left and right. It doesnt have to be gdstime fans for example, and a 120W PSU will also do the job.
+With that out of the way, happy sourcing and building!
