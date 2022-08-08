@@ -3,7 +3,9 @@ There is not a lot to unpack. Like... for real.
 
 https://user-images.githubusercontent.com/66600478/183345870-d31b0fc4-497d-4f51-bbe5-db83cf9a2b46.mp4
 
-https://user-images.githubusercontent.com/66600478/183383424-e6a317a6-c26e-4fb0-95f7-5c3cc896b03f.mp4
+https://user-images.githubusercontent.com/66600478/183393218-e2c36373-c6ef-4a6b-8ddc-9fcbb0638569.mp4
+
+
 
 
 
@@ -20,6 +22,7 @@ https://user-images.githubusercontent.com/66600478/183383424-e6a317a6-c26e-4fb0-
 
 ###### Some words of caution:
 
+
 - As you can imagine, a fixed bed cantilever is not optimal for fast speeds or
   a big printvolume.
 - Thankfully, we dont have to deal with a big printvolume, but with speed. Or
@@ -32,6 +35,23 @@ https://user-images.githubusercontent.com/66600478/183383424-e6a317a6-c26e-4fb0-
 
 ## This is free for everyone to download and build, or of course to just look
    at it and take some ideas from it. :)
+
+=======
+- As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
+- Thankfully, we dont have to deal with a big printvolume, but with speed. Or better: the rapid change of
+directions. This is a problem with any movement system, and it is even more with this.
+- So why the fixed bed cantilever? Because it simply looks cool.
+- Also, i used dual rails for load distribution for Y and Z; these are a bit problematic to align, and
+can and will cost you a few grey hairs.
+- its a (functioning) prototype, and with that will get much more work done
+
+###### ToDo-List
+- the XY-joiner is right now not printable on flatpack. In reprap-fashion everything should be though. That will be fixed
+- with that said, the XY-joiner is also too complicated to print. With the redesign to be able to be printed on flatpack, i hope i will also tackle that.
+- flathead has no spoolholder. I want to design a spoolholder, that can travel along in the spoolbox of your actual spool you´re carrying with you
+- i may want to change to a Mellow Orbiter Extruder, as that seems to be the better extruder. Also its nearly the same shape, and the same price
+- the 3-mount-bedmounting is not optimal, as i simply drilled holes and threaded M3 threads into that. I may find a better solution down the road
+- you can twist the base. Thats not supposed to happen, and one solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I think there must also be another way...
 
 
 ## Design files
