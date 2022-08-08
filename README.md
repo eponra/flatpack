@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/66600478/183403170-353edabf-4271-400f-
 - So why the fixed bed cantilever? Because it simply looks cool.
 - Also, i used dual rails for load distribution for Y and Z; these are a bit
   problematic to align, and can and will cost you a few grey hairs.
+- last word of caution would probably be to take your time building flatpack, and make sure everything is square, and everything that should move moves well, while everything that should not move really doesnt move or flexes 
 
 
 ## This is free for everyone to download and build, or of course to just look at it and take some ideas from it. :)
