@@ -54,6 +54,8 @@ can and will cost you a few grey hairs.
 - the 3-mount-bedmounting is not optimal, as i simply drilled holes and threaded M3 threads into that. I may find a better solution down the road
 - you can twist the base. Thats not supposed to happen, and one solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I think there must also be another way...
 
+![prototyping](https://user-images.githubusercontent.com/66600478/183500214-0299970e-6995-443d-a172-a0e379b12d8e.jpg)
+(for a break, the latest switch from a totally different hotend/partcooling setup to the actual one. Thats not all steps, just a few)
 
 ## Design files
 
