@@ -50,6 +50,7 @@ can and will cost you a few grey hairs.
 - with that said, the XY-joiner is also too complicated to print. With the redesign to be able to be printed on flatpack, i hope i will also tackle that.
 - flathead has no spoolholder. I want to design a spoolholder, that can travel along in the spoolbox of your actual spool you´re carrying with you
 - i may want to change to a Mellow Orbiter Extruder, as that seems to be the better extruder. Also its nearly the same shape, and the same price
+- Fanduct for partcooling is still not optimal i think. I simply cant design a proper fanduct. But i also started a repo for ["caterpillar"](https://www.github.com/eponra/caterpillar), which is my partcoolingsolution using CF tubes, which will be merged into flatpack eventually.
 - the 3-mount-bedmounting is not optimal, as i simply drilled holes and threaded M3 threads into that. I may find a better solution down the road
 - you can twist the base. Thats not supposed to happen, and one solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I think there must also be another way...
 
