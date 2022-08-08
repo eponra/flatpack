@@ -63,6 +63,7 @@ Fusion 360.
 
 The link to the latest stable F360 file is [here](https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view).
 
+The link to the latest stable .step file is [here](https://drive.google.com/file/d/1zsAKuO8Nb--h5dHGaoO5eWXcXt3RKrQH/view).
 
 ###### A few words of gratitude:
 
