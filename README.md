@@ -10,20 +10,25 @@ https://user-images.githubusercontent.com/66600478/183345870-d31b0fc4-497d-4f51-
 - heated bed
 - powered through an external (!) powerbrick with 150W, uses 100W max
 - the design would theoretically allow for an AC bed, and then a small psu inside for having everything in one box
-but that was deemed to dangerous for the average user so i did not went that way
+but that was deemed to dangerous for the average user by me, so i did not went that way
 
 ###### Some words of caution:
-As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
-Thankfully, we dont have to deal with a big printvolume, but speed, or better the rapid change of
-directions is a problem with any movement system, and it is even more with this design.
+- As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
+- Thankfully, we dont have to deal with a big printvolume, but with speed. Or better: the rapid change of
+directions. This is a problem with any movement system, and it is even more with this.
 
-The fixed bed cantilever design is used because it simply looks cool.
+- So why the fixed bed cantilever? Because it simply looks cool.
 
-Also, i used dual rails for load distribution for Y and Z; these are a bit problematic to align, and
+- Also, i used dual rails for load distribution for Y and Z; these are a bit problematic to align, and
 can and will cost you a few grey hairs.
 
 
 ## This is free for everyone to download and build, or of course to just look at it and take some ideas from it. :)
+https://a360.co/3vLUHdm
+
+This link is sadly viewable only, as i am using the free version of Autodesk Fusion 360.
+The link to the latest stable F360 file is here:
+https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view?usp=sharing
 
 
 ###### A few words of gratitude:
