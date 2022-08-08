@@ -34,3 +34,8 @@ The initial idea to make this foldable, came from @Ogre.
 Also, special thanks to @Oliof, another extremely helpful member and Mod of 3D printing, and also a walking dictionary
 on obscure 3D printing and mechanical knowledge.
 And of course, a thank you to everyone else i forgot from 3D printing and especially the #reprap-and-custombuilds channel.
+
+Also, everyone nagging me multiple times a day in the super secret #Wheres-flatpack channel...
+
+
+Flatpack is licensed under GPL v3.0.
