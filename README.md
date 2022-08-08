@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/66600478/183393218-e2c36373-c6ef-4a6b-
 
 ## This is free for everyone to download and build, or of course to just look at it and take some ideas from it. :)
 
-=======
+
 - As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
 - Thankfully, we dont have to deal with a big printvolume, but with speed. Or better: the rapid change of
 directions. This is a problem with any movement system, and it is even more with this.
