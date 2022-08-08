@@ -6,7 +6,8 @@ https://user-images.githubusercontent.com/66600478/183345870-d31b0fc4-497d-4f51-
 https://user-images.githubusercontent.com/66600478/183403170-353edabf-4271-400f-9db7-fafc17dc54a0.mp4
 
 https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-af40-6a08152f20f8.mp4
-(flatpack and flathead printing gridfinity parts)
+
+(flatpack and flathead printing gridfinity parts; flatpack with the old hotendsetup (4010 hotend, 3010 for partcooling)
 
 
 ###### Technical Data:
