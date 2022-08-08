@@ -72,8 +72,9 @@ discord](https://discord.gg/pQRvDQHk67).  With this i built flathead, the
 bigger brother of flatpack, and without [apsu](https://github.com/apsu/) none
 of this would have happened.
 
-The initial idea to make this foldable, came from @Ogre.  Also, special thanks
-to [oliof](https://github.com/oliof/), another extremely helpful member and Mod
+The initial idea to make this foldable, came from @Ogre.
+
+Also, special thanks to [oliof](https://github.com/oliof/), another extremely helpful member and Mod
 of 3D printing, and also a walking dictionary on obscure 3D printing and
 mechanical knowledge.  And of course, a thank you to everyone else i forgot
 from 3D printing and especially the #reprap-and-custombuilds channel.
