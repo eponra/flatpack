@@ -33,8 +33,7 @@ https://user-images.githubusercontent.com/66600478/183393218-e2c36373-c6ef-4a6b-
   problematic to align, and can and will cost you a few grey hairs.
 
 
-## This is free for everyone to download and build, or of course to just look
-   at it and take some ideas from it. :)
+## This is free for everyone to download and build, or of course to just look at it and take some ideas from it. :)
 
 =======
 - As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
