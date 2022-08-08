@@ -56,12 +56,12 @@ can and will cost you a few grey hairs.
 
 ## Design files
 
-(Fusion 360 )[https://a360.co/3vLUHdm] 
+[Fusion 360](https://a360.co/3vLUHdm)
 
 This link is sadly viewable only, as i am using the free version of Autodesk
 Fusion 360.
 
-The link to the latest stable F360 file is [here](https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view)
+The link to the latest stable F360 file is [here](https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view).
 
 
 ###### A few words of gratitude:
@@ -75,13 +75,14 @@ of this would have happened.
 
 The initial idea to make this foldable, came from @Ogre.
 
-Also, special thanks to [oliof](https://github.com/oliof/), another extremely helpful member and Mod
-of 3D printing, and also a walking dictionary on obscure 3D printing and
-mechanical knowledge.  And of course, a thank you to everyone else i forgot
-from 3D printing and especially the #reprap-and-custombuilds channel.
+Also, special thanks to [oliof](https://github.com/oliof/), another extremely
+helpful member and Mod of 3D printing, and also a walking dictionary on obscure
+3D printing and mechanical knowledge.  And of course, a thank you to everyone
+else i forgot from 3D printing and especially the #reprap-and-custombuilds
+channel.
 
 Also, everyone nagging me multiple times a day in the super secret
 #wheres-flatpack channel...
 
 
-Flatpack is licensed under GPL v3.0.
+Flatpack is licensed under [GPL v3.0](/LICENSE).
