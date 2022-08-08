@@ -1,7 +1,7 @@
 # flatpack
 A foldable fixed-bed-cantilever 3D-printer, that fits into a spoolbox and uses off-the-shelf parts only.
 
-![test](https://imgur.com/a/Olcyt7i.gif)
+https://user-images.githubusercontent.com/66600478/183345870-d31b0fc4-497d-4f51-bbe5-db83cf9a2b46.mp4
 
 
 ###### Technical Data:
