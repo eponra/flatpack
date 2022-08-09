@@ -12,49 +12,41 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
 
 ###### Technical Data:
 
-- folded volume of roughly 220x210x75mm (so, make sure your spoolbox has that
-  inner dimension, as there are some with slightly different dimensions)
+- folded volume of roughly 220x210x75mm (so, make sure your spoolbox has these
+  inner dimensions at a minimum, as there are some with slightly different dimensions)
 - buildvolume of 120x114x114mm, so 1.6 liters
-- heated bed that can go up to 110°C
-- Hotend up to 300°C, if you choose the Copper NF Smart 500°C
+- heated bed that can reach up to 110°C
+- Hotend capable of temperatures up to 300°C, if you choose the Copper NF Smart 500°C
 - powered through an external (!) powerbrick with 150W, uses 100W max
-- the design would theoretically allow for an AC bed, and then a small psu
-  inside for having everything in one box but that was deemed to dangerous for
-  the average user by me, so i did not went that way
+- the design can theoretically use an AC bed, and consequently a small psu
+  enabling everything to fit in one box. 
+  For safety reasons I deemed mains wiring to be to dangerous and
+  as a result I have selected a DC powered bed to make the build more accessible to the average user.
 
 ###### Some words of caution:
 
 
 - As you can imagine, a fixed bed cantilever is not optimal for fast speeds or
-  a big printvolume.
-- Thankfully, we dont have to deal with a big printvolume, but with speed. Or
-  better: the rapid change of directions. This is a problem with any movement
-  system, and it is even more with this.
+  larger printvolumes.
+- Thankfully, we dont have to deal with a large printvolume. Speed and Acceleration are however a concern here.
+Rapid changes in direction can be challenging for any motion system and even more so with this motion system.
+As a result consider setting your print speeds and accelerations conservatively.
 - So why the fixed bed cantilever? Because it simply looks cool.
-- Also, i used dual rails for load distribution for Y and Z; these are a bit
-  problematic to align, and can and will cost you a few grey hairs.
-- last word of caution would probably be to take your time building flatpack, and make sure everything is square, and everything that should move moves well, while everything that should not move really doesnt move or flexes 
+- Dual rails are used for load distribution on both the Y and Z axis; these can be a bit
+  tricky to align, and can and will cost you a few grey hairs.
+- last word of caution: I encourage you to take your time building flatpack, and make certain everything is square, and all the motion system moves smoothly, while everything that should not move is rigid and secure without much play or flexing. 
+- its a (functioning) prototype, and will continue to undergo active development and improvements.
 
-
-## This is free for everyone to download and build, or of course to just look at it and take some ideas from it. :)
-
-
-- As you can imagine, a fixed bed cantilever is not optimal for fast speeds or a big printvolume.
-- Thankfully, we dont have to deal with a big printvolume, but with speed. Or better: the rapid change of
-directions. This is a problem with any movement system, and it is even more with this.
-- So why the fixed bed cantilever? Because it simply looks cool.
-- Also, i used dual rails for load distribution for Y and Z; these are a bit problematic to align, and
-can and will cost you a few grey hairs.
-- its a (functioning) prototype, and with that will get much more work done
+## This is free for everyone to download and build, or of course to just look at it and take some inspiration or ideas from it. :)
 
 ###### ToDo-List
-- the XY-joiner is right now not printable on flatpack. In reprap-fashion everything should be though. That will be fixed
-- with that said, the XY-joiner is also too complicated to print. With the redesign to be able to be printed on flatpack, i hope i will also tackle that.
-- flathead has no spoolholder. I want to design a spoolholder, that can travel along in the spoolbox of your actual spool you´re carrying with you
-- i may want to change to a Mellow Orbiter Extruder, as that seems to be the better extruder. Also its nearly the same shape, and the same price
-- Fanduct for partcooling is still not optimal i think. I simply cant design a proper fanduct. But i also started a repo for ["caterpillar"](https://www.github.com/eponra/caterpillar), which is my partcoolingsolution using CF tubes, which will be merged into flatpack eventually.
-- the 3-mount-bedmounting is not optimal, as i simply drilled holes and threaded M3 threads into that. I may find a better solution down the road
-- you can twist the base. Thats not supposed to happen, and one solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I think there must also be another way...
+- the XY-joiner is currently not printable on flatpack. In keeping with reprap-fashion everything should be. That will be fixed
+- with that said, the XY-joiner is also too complicated to print. While redesigning this part, I hope to not only make it printable on flatpack but easier to print in general.
+- flatpack has no spoolholder. The goal is to design a spoolholder, that can travel along in the spoolbox along side the filament you´re carrying with you
+- I may change to a Mellow Orbiter Extruder, as that seems to be a better extruder for this machine, while being nearly the same shape and price
+- Further optimization of the fanduct/part cooling. I have encountered difficulties designing the fanduct. I have started a repo for ["caterpillar"](https://www.github.com/eponra/caterpillar), which is a partcoolingsolution I designed using CF tubes, which I intend to merge into flatpack eventually.
+- the current 3 point-bedmounting is not optimal, as it is simply drilled and tapped M3 threaded holes. I would like to find a better solution down the road.
+- you can twist the base and that's not supposed to happen! One solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I am convinced there is probably a better solution.
 
 ![prototyping](https://user-images.githubusercontent.com/66600478/183500214-0299970e-6995-443d-a172-a0e379b12d8e.jpg)
 (for a break, the latest switch from a totally different hotend/partcooling setup to the actual one. Thats not all steps, just a few)
@@ -63,7 +55,7 @@ can and will cost you a few grey hairs.
 
 [Fusion 360](https://a360.co/3vLUHdm)
 
-This link is sadly viewable only, as i am using the free version of Autodesk
+This link is sadly viewable only, as I am using the free version of Autodesk
 Fusion 360.
 
 The link to the latest stable F360 file is [here](https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view).
