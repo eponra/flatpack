@@ -70,8 +70,8 @@
   - https://www.aliexpress.com/item/4000062956240.html
   - 280pcs in the set, only M3
 
-**All In thats 335,14€. All that is without postage or customs, so this price
-could still fluctuate a tad.**
+**All-in-all that's 335,14€. All that is without postage or customs, so this
+price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
 gdstime fans for example, and a 120W PSU will also do the job.  With that out
