@@ -4,15 +4,18 @@
   - FYSETC AIO II
   - 45,30€
   - https://www.aliexpress.com/item/32331322896.html
+
 - [ ]  **Extruder**
   - Mellow Sherpa Mini, 63,14€
   - https://www.aliexpress.com/item/1005003671542821.html
   - or Mellow Orbiter (needs testing)
+
 - [ ]  **Hotend**
   - Mellow NF Smart
   - 35,77€
   - https://www.aliexpress.com/item/4000804638258.html
   - there are many more compatible; max overall length is 50mm, the actual mounts needs a Hotend that uses the 2xM3 mounting option without changes. May need adjustments on the fanduct though.
+
 - [ ]  **Heatbed**
   - 150x150 aluminium plate
   - 8€ from ebay
@@ -36,7 +39,7 @@
   - https://www.aliexpress.com/item/32955432884.html
   - the price is for two, as I could not find a single
 
-- [ ]  **Partcooling Fan**
+- [ ]  **Part Cooling Fan**
   - 24V gdstime 4020 blower
   - 11,84€
   - https://www.aliexpress.com/item/1005001436999999.html
@@ -59,7 +62,7 @@
   - https://www.makerbeam.com/300mm-4p-black-makerbeamxl-15mmx15mm.html
   - must also be cut to length
 
-- [ ]  **M3 heated Inserts**
+- [ ]  **M3 Heated Inserts**
   - a lot
   - 6,50€
   - https://www.aliexpress.com/item/4000232858343.html
