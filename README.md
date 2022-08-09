@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
   inner dimension, as there are some with slightly different dimensions)
 - buildvolume of 120x114x114mm, so 1.6 liters
 - heated bed that can go up to 110°C
-- Hotend 300°C, if you choose the Copper NF Smart even 500C
+- Hotend up to 300°C, if you choose the Copper NF Smart 500°C
 - powered through an external (!) powerbrick with 150W, uses 100W max
 - the design would theoretically allow for an AC bed, and then a small psu
   inside for having everything in one box but that was deemed to dangerous for
