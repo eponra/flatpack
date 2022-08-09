@@ -12,10 +12,10 @@
     - Mellow NF Smart
     - 35,77€
     - https://www.aliexpress.com/item/4000804638258.html
-    -  there are many more compatible; max overall length is 50mm,
-       the actual mounts needs a Hotend that uses the 2xM3 mounting
-       option without changes. May need adjustments on the
-       fanduct though.
+    - there are many more compatible; max overall length is 50mm,
+      the actual mounts needs a Hotend that uses the 2xM3 mounting
+      option without changes. May need adjustments on the
+      fanduct though.
   -   Heatbed:
     - 150x150 aluminium plate
     - 8€ from ebay
