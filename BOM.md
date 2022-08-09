@@ -1,14 +1,14 @@
 # Bill of Materials
 
-  -   Head: 
+  -   Head
     - FYSETC AIO II
     - 45,30€
     - https://www.aliexpress.com/item/32331322896.html
-  - Extruder: 
+  - Extruder 
     - Mellow Sherpa Mini, 63,14€
     - https://www.aliexpress.com/item/1005003671542821.html
     - or Mellow Orbiter (needs testing)
-  - Hotend:
+  - Hotend
     - Mellow NF Smart
     - 35,77€
     - https://www.aliexpress.com/item/4000804638258.html
@@ -16,7 +16,8 @@
       the actual mounts needs a Hotend that uses the 2xM3 mounting
       option without changes. May need adjustments on the
       fanduct though.
-  -   Heatbed:
+
+  -   Heatbed
     - 150x150 aluminium plate
     - 8€ from ebay
     - 24V 120x120 silicone heater
