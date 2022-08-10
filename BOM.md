@@ -73,7 +73,30 @@
   - https://www.aliexpress.com/item/4000062956240.html
   - 280pcs in the set, only M3
 
-**All-in-all that's 335,14€. All that is without postage or customs, so this
+- [ ]  **2x 110mm closed loop gt2 belt** 
+  - 1,54€ for two
+  - https://www.aliexpress.com/item/4000936363508.html
+
+- [ ]  **80cm gt2 belt** 
+  - 7,54€ for 2m
+  - https://www.aliexpress.com/item/32952396111.html
+
+- [ ]  **roughly 25 M3 Nuts as tnuts** 
+  - no cost, because there are more already in the M3 Screw Set
+  - i experimented with tnut-style variants for the build in 1515, but M3 nuts work well, so no reason to buy them
+  - roughly 25, because its on you how many you use for the rails
+
+- [ ]  **4x F695 2RS Bearings** 
+  - 5,69€ for 10
+  - https://www.aliexpress.com/item/32850989216.html
+
+- [ ]  **2x Idler** 
+  - coming soon, have to measure the exact size still
+
+- [ ]  **6x Pulley** 
+  - coming soon, have to measure the exact size still
+
+**All-in-all that's 349,91€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
