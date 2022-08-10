@@ -90,7 +90,7 @@
   - 5,69€ for 10
   - https://www.aliexpress.com/item/32850989216.html
 
-- [ ]  **2x Idler** 
+- [ ]  **2x smooth Idler** 
   - 1,78€ for two
   - https://www.aliexpress.com/item/1005002616941654.html
   - important here is that the pully has a 3mm inner diameter hole, and is 8mm tall (if you want to source it yourself)
