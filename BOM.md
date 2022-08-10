@@ -96,7 +96,11 @@
 - [ ]  **6x Pulley** 
   - coming soon, have to measure the exact size still
 
-**All-in-all that's 349,91€. All that is without postage or customs, so this
+- [ ]  **3x Endstops** 
+  - 0,84€ for 5
+  - https://www.aliexpress.com/item/4000434289043.html
+
+**All-in-all that's 350,75€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
