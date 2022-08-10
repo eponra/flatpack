@@ -58,9 +58,13 @@ As a result consider setting your print speeds and accelerations conservatively.
 This link is sadly viewable only, as I am using the free version of Autodesk
 Fusion 360.
 
-The link to the latest stable F360 file is [here](https://drive.google.com/file/d/11LgXLBMvyC8zmfqN7jgGPJatx4k_127C/view).
+The link to the latest stable F360 file (Ver6) is [here](https://drive.google.com/file/d/1cO-6mWfMXnsjFhGBfoUCytkcC-zrtWKI/view).
 
-The link to the latest stable .step file is [here](https://drive.google.com/file/d/1zsAKuO8Nb--h5dHGaoO5eWXcXt3RKrQH/view).
+The link to the latest stable .step file (Ver6) is [here](https://drive.google.com/file/d/1fkxtg4CTWYKb5CHa7o7k57vVt-Ko5-wN/view).
+
+###### Changelog:
+- from V4 to V6 there are changes in the X and Y tensioner. Both clamps now feature copper pressfit bushings, and M3 rods. If you started printing already, you only have to watch out for "Y-Tensioner Clamp long v2" and "X-Tensioner Clamp v2".
+
 
 ###### A few words of gratitude:
 
