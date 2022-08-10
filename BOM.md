@@ -73,11 +73,11 @@
   - https://www.aliexpress.com/item/4000062956240.html
   - 280pcs in the set, only M3
 
-- [ ]  **2x 110mm closed loop gt2 belt** 
+- [ ]  **2x 110mm closed loop gt2 belt 6mm** 
   - 1,54€ for two
   - https://www.aliexpress.com/item/4000936363508.html
 
-- [ ]  **80cm gt2 belt** 
+- [ ]  **80cm gt2 belt 6mm** 
   - 7,54€ for 2m
   - https://www.aliexpress.com/item/32952396111.html
 
