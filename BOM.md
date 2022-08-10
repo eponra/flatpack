@@ -91,16 +91,36 @@
   - https://www.aliexpress.com/item/32850989216.html
 
 - [ ]  **2x Idler** 
-  - coming soon, have to measure the exact size still
+  - 1,78€ for two
+  - https://www.aliexpress.com/item/1005002616941654.html
+  - important here is that the pully has a 3mm inner diameter hole, and is 8mm tall (if you want to source it yourself)
 
-- [ ]  **6x Pulley** 
-  - coming soon, have to measure the exact size still
+- [ ]  **6x Pulley 16T GT2 6mm** 
+  - 12,42€ for six
+  - https://www.aliexpress.com/item/1005004568068197.html
+  - important is here that the pully has a 5mm inner diameter hole, is 14mm tall, and has 16 teeth (if you want to source it yourself)
 
 - [ ]  **3x Endstops** 
   - 0,84€ for 5
   - https://www.aliexpress.com/item/4000434289043.html
 
-**All-in-all that's 350,75€. All that is without postage or customs, so this
+- [ ]  **4x copper bushings, 3x5x2.1-7x0.6mm** 
+  - 4,71€ for 10
+  - https://de.aliexpress.com/item/1005004075528729.html
+  - bushings you press into the x- and y-tensioner, to then push a 3mm rod through
+
+- [ ]  **2x 3mm steel rod, 100mm long** 
+  - 1,54€ for 2 x 100mm
+  - https://www.aliexpress.com/item/32427862310.html
+  - 3mm rod you will have to cut to size
+
+- [ ]  **1x 5mm steel rod, 100mm long** 
+  - 1,75€ for 1 x 100mm
+  - https://www.aliexpress.com/item/32427862310.html
+  - 3mm rod you will have to cut to size
+
+
+**All-in-all that's 358,75€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
