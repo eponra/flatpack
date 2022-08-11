@@ -23,6 +23,10 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
   For safety reasons I deemed mains wiring to be to dangerous and
   as a result I have selected a DC powered bed to make the build more accessible to the average user.
 
+###### Firmware:
+
+- Marlin configuration is available at [firmware/Marlin](firmware/Marlin). Tested with the AIO II.
+
 ###### Some words of caution:
 
 
