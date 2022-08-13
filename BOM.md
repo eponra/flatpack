@@ -119,8 +119,11 @@
   - https://www.aliexpress.com/item/32427862310.html
   - 3mm rod you will have to cut to size
 
+- [ ]  **1x 5 to 8mm coupler** 
+  - 0,54€
+  - https://www.aliexpress.com/item/1005004375332066.html
 
-**All-in-all that's 358,75€. All that is without postage or customs, so this
+**All-in-all that's 359,29€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
