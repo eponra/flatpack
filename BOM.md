@@ -119,9 +119,9 @@
   - https://www.aliexpress.com/item/32427862310.html
   - 3mm rod you will have to cut to size
 
-- [ ]  **1x 5 to 8mm coupler** 
-  - 0,54€
-  - https://www.aliexpress.com/item/1005004375332066.html
+- [ ]  **4x Rubber Feet** 
+  - its not really important which one you choose, but they have to be 10mm in height, and can be up to 23mm in width
+  - you can ofc simply design your own foot, or cut something to size that fit the existing feet, and add the 10mm in height
 
 **All-in-all that's 359,29€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
