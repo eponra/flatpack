@@ -1,5 +1,7 @@
 # Bill of Materials
 
+Google Sheets version - https://docs.google.com/spreadsheets/d/1h0OEkqNLhOIdOwsU3hawDGmq4uEg8A3oxWC10SDhTJ4/edit?usp=sharing
+
 - [ ]  **Head**
   - FYSETC AIO II
   - 45,30€
