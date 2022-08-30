@@ -131,7 +131,7 @@
   - its not really important which one you choose, but they have to be 10mm in height, and can be up to 23mm in width
   - you can ofc simply design your own foot, or cut something to size that fit the existing feet, and add the 10mm in height
 
-**All-in-all that's 359,29€. All that is without postage or customs, so this
+**All-in-all that's 371,82€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
