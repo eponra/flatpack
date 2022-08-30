@@ -125,7 +125,7 @@
 - [ ]  **1x 5mm steel rod, 100mm long** 
   - 1,75€ for 1 x 100mm
   - https://www.aliexpress.com/item/32427862310.html
-  - 3mm rod you will have to cut to size
+  - 5mm rod you will have to cut to size
 
 - [ ]  **4x Rubber Feet** 
   - its not really important which one you choose, but they have to be 10mm in height, and can be up to 23mm in width
