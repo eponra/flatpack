@@ -22,6 +22,9 @@
   - 24V 120x120 silicone heater
   - 22,24€ 
   - https://www.aliexpress.com/item/1005001815326438.html
+  - 3x Springs 8x4x20mm
+  - 1,56€
+  - https://de.aliexpress.com/item/1005001839105857.html
 
 - [ ]  **PSU**
   - external 24V powerbrick without active cooling
@@ -50,6 +53,11 @@
   - 10,97€
   - https://www.aliexpress.com/item/1005002054258631.html
   - you have to cut that leadscrew(!) to length
+
+- [ ]  **5 to 8mm Coupler**
+  - A Set of 5mm to 8mm Coupler, for the Leadscrew
+  - 10,97€
+  - https://www.aliexpress.com/item/32368507972.html
 
 - [ ]  **Stepper Motors**
   - 3pc Set Nema 17
@@ -106,7 +114,7 @@
 
 - [ ]  **4x copper bushings, 3x5x2.1-7x0.6mm** 
   - 4,71€ for 10
-  - https://de.aliexpress.com/item/1005004075528729.html
+  - https://www.aliexpress.com/item/1005004075528729.html
   - bushings you press into the x- and y-tensioner, to then push a 3mm rod through
 
 - [ ]  **2x 3mm steel rod, 100mm long** 
