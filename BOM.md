@@ -24,7 +24,7 @@
   - https://www.aliexpress.com/item/1005001815326438.html
   - 3x Springs 8x4x20mm
   - 1,56€
-  - https://de.aliexpress.com/item/1005001839105857.html
+  - https://www.aliexpress.com/item/1005001839105857.html
 
 - [ ]  **PSU**
   - external 24V powerbrick without active cooling
