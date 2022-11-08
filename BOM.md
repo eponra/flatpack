@@ -70,7 +70,7 @@
   - must also be cut to length
 
 - [ ]  **M3 Heated Inserts**
-  - a lot
+  - a lot (pls choose M3 X D4.6 X L3.0; longer is possible, but L3.0 is needed for Orbiter V2 Extruder)
   - 6,50€
   - https://www.aliexpress.com/item/4000232858343.html
   - you get 100pcs
