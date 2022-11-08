@@ -17,7 +17,7 @@
   - there are many more compatible; max overall length is 50mm, the actual mounts needs a Hotend that uses the 2xM3 mounting option without changes. May need adjustments on the fanduct though.
 
 - [ ]  **Heatbed**
-  - 150x150 aluminium plate
+  - 150x150x3mm aluminium plate
   - 8€ from ebay
   - 24V 120x120 silicone heater
   - 22,24€ 
