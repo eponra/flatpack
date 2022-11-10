@@ -98,9 +98,9 @@
   - https://www.aliexpress.com/item/32850989216.html
 
 - [ ]  **2x smooth Idler** 
-  - 1,78€ for two
-  - https://www.aliexpress.com/item/1005002616941654.html
-  - important here is that the pully has a 3mm inner diameter hole, and is 8mm tall (if you want to source it yourself)
+  - 2,22€ for two
+  - https://www.aliexpress.com/item/33060233087.html (from this link its the "type 4", and dont forget to choose either black or silver)
+  - important here is that the pully has a 3mm inner diameter hole, and is 8mm tall, and the flange has a diameter of 13mm (if you want to source it yourself)
 
 - [ ]  **6x Pulley 16T GT2 6mm** 
   - 12,42€ for six
