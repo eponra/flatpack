@@ -22,6 +22,8 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
   enabling everything to fit in one box. 
   For safety reasons I deemed mains wiring to be to dangerous and
   as a result I have selected a DC powered bed to make the build more accessible to the average user.
+- Flatpack is fully reprap, meaning that you can print every printable part of flatpack on flatpack.
+ 
 
 ###### Firmware:
 
@@ -40,14 +42,14 @@ As a result consider setting your print speeds and accelerations conservatively.
   tricky to align, and can and will cost you a few grey hairs.
 - last word of caution: I encourage you to take your time building flatpack, and make certain everything is square, and all the motion system moves smoothly, while everything that should not move is rigid and secure without much play or flexing. 
 - its a (functioning) prototype, and will continue to undergo active development and improvements.
+- thanks to the user awesomeka001 we now know, that the xz-joiner is indeed printable on flatpack, so flatpack is now full reprap. Meaning if you have one flatpack, you can print all parts of it on that machine.
 
 ## This is free for everyone to download and build, or of course to just look at it and take some inspiration or ideas from it. :)
 
 ###### ToDo-List
-- the XY-joiner is currently not printable on flatpack. In keeping with reprap-fashion everything should be. That will be fixed
-- with that said, the XY-joiner is also too complicated to print. While redesigning this part, I hope to not only make it printable on flatpack but easier to print in general.
+- the XY-joiner is realtively complicated to print and cleanup. One day ill find an easier way to do that.
 - flatpack has no spoolholder. The goal is to design a spoolholder, that can travel along in the spoolbox along side the filament you´re carrying with you
-- I may change to a Mellow Orbiter Extruder, as that seems to be a better extruder for this machine, while being nearly the same shape and price
+- we now have an adapter to fit a Mellow Orbiter Extruder. One day i will make a new carriage for that, so we dont need an adapter, but for now the adapter works well enough, and its still foldable.
 - Further optimization of the fanduct/part cooling. I have encountered difficulties designing the fanduct. I have started a repo for ["caterpillar"](https://www.github.com/eponra/caterpillar), which is a partcoolingsolution I designed using CF tubes, which I intend to merge into flatpack eventually.
 - the current 3 point-bedmounting is not optimal, as it is simply drilled and tapped M3 threaded holes. I would like to find a better solution down the road.
 - you can twist the base and that's not supposed to happen! One solution is to drill through the aluminium extrusions to get screws into the extrusions under the bed. I am convinced there is probably a better solution.
