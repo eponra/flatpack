@@ -67,7 +67,7 @@
   - 4x 300mm 1515, black anodized,
   - 13,03€
   - https://www.makerbeam.com/300mm-4p-black-makerbeamxl-15mmx15mm.html
-  - must also be cut to length
+  - must also be cut to length (1st 300mm 165mm&128mm, 2nd 300mm 165mm&108mm, 3rd 300mm 177mm&106mm, 4th 300mm 160mm&82mm)
 
 - [ ]  **M3 Heated Inserts**
   - a lot (pls choose M3 X D4.6 X L3.0; longer is possible, but L3.0 is needed for Orbiter V2 Extruder)
