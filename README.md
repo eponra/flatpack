@@ -19,8 +19,8 @@ to that board, apart from the cnc'ed adaption of my design is running Flipper of
 
 https://youtu.be/e8mjv9e-qzc (you see two prototypes here at TCT Asia)  
 https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52 (starting at the timestamp you see one prototype again)  
-Crowdfounding starts probably in november or decembre. :)  
-Im also in no way affiliated with mellow, i dont get anything out of it EXCEPT one of the finished mellow m1. Which im looking very much forward too.  
+Crowdfounding starts probably in november or decembre of 2023. :)  
+Im also in no way affiliated with mellow, i dont get anything out of this EXCEPT one of the finished mellow m1. Which im looking very much forward too.  
 And now lets go on with flatpack here:
 
 ###### Technical Data:
