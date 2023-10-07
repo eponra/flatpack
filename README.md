@@ -80,6 +80,9 @@ Fusion 360.
 The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1a2EOg3HK1r-n8Omy-1yQx4LHCDSig2ma/view)
 
 ###### Changelog:
+- from V6 to V7 where changes made to the XZ-joiner, the left Frontmount (so that we can use a shorter front extrusion, this lets us use only 4 300mm 1515 extrusions), i added the screwingholes to the drawing so you know where
+to add the extra screws for the base, i added a component which only includes all parts that have inserts + the heated inserts (in a slightly exploded configuration, so you can better see where every insert needs to be), slightly changed
+X-Tensioner (just to make one M3-head flush with the print)
 - from V4 to V6 there are changes in the X and Y tensioner. Both clamps now feature copper pressfit bushings, and M3 rods. If you started printing already, you only have to watch out for "Y-Tensioner Clamp long v2" and "X-Tensioner Clamp v2".
 
 
