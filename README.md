@@ -36,6 +36,8 @@ And now lets go on with flatpack here:
   For safety reasons I deemed mains wiring to be to dangerous and
   as a result I have selected a DC powered bed to make the build more accessible to the average user.
 - Flatpack is fully reprap, meaning that you can print every printable part of flatpack on flatpack.
+- now also with Klipper or Octoprint! You need at least the Pi Zero Mount from the files for adding that.
+You have also the possibility now to drop the AIO II and just install an SKR Pico along with an Pi Zero (2) W
  
 
 ###### Firmware:
