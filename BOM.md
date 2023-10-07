@@ -1,4 +1,5 @@
 # Bill of Materials
+(I´ve linked mostly black anodized parts. You can ofc source your own in the colour you want.)
 
 - [ ]  **Head**
   - FYSETC AIO II
@@ -76,9 +77,9 @@
   - you get 100pcs
 
 - [ ]  **M3 Screws** 
-  - 6,98€ for a set
-  - https://www.aliexpress.com/item/4000062956240.html
-  - 280pcs in the set, only M3
+  - 22,19€ for a non-black set
+  - https://www.aliexpress.com/item/1005004145730693.html
+  - 440pcs in the set, only M3. If you source your own set, remember you need at least two M3 in 40mm.
 
 - [ ]  **2x 110mm closed loop gt2 belt 6mm** 
   - 1,54€ for two
@@ -130,7 +131,7 @@
   - its not really important which one you choose, but they have to be 10mm in height, and can be up to 23mm in width
   - you can ofc simply design your own foot, or cut something to size that fit the existing feet, and add the 10mm in height
 
-**All-in-all that's 373,09€. All that is without postage or customs, so this
+**All-in-all that's 388,30€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
