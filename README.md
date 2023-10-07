@@ -9,6 +9,18 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
 
 (flatpack and flathead printing gridfinity parts; flatpack with the old hotendsetup (4010 hotend, 3010 for partcooling)
 
+Small Announcement before we go on here:
+Flatpack will be made in a fully machined adaptation by Mellow, and will be called the Mellow M1. Apart from still being able to be folded,
+it comes:
+- featuring a new board which is basically a Fly D5 and a Fly Pi Lite v2 married together on the size of the D5 (im very much looking forward
+to that board, apart from the cnc'ed adaption of my design is running Flipper ofc; they could do rrf, but we will see)
+- featuring a 2.8" touchscreen at the bottom, and a 1.3" touchscreen at the hotend for quick filament changes and quick heating
+
+https://youtu.be/e8mjv9e-qzc (you see two prototypes here at TCT Asia)
+https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52 (starting at the timestamp you see one prototype again)
+Crowdfounding starts probably in november or decembre. :)
+Im also in no way affiliated with mellow, i dont get anything out of it EXCEPT one of the finished mellow m1. Which im looking very much forward too.
+And now lets go on with flatpack here:
 
 ###### Technical Data:
 
