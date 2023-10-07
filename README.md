@@ -72,10 +72,12 @@ As a result consider setting your print speeds and accelerations conservatively.
 
 ## Design files
 
-[Fusion 360](https://a360.co/3vLUHdm)
+[Fusion 360 Web Flatpack](https://a360.co/3vLUHdm)
 
 This link is sadly viewable only, as I am using the free version of Autodesk
-Fusion 360.
+Fusion 360. I also put up a version that only shows parts and positions of the heated inserts. (Attention: the parts inside this are not the most recent, so dont print these.)
+
+[Fusion 360 Web heated inserts](https://a360.co/3tjAQnn)
 
 The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1a2EOg3HK1r-n8Omy-1yQx4LHCDSig2ma/view)
 
