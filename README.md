@@ -89,6 +89,7 @@ to add the extra screws for the base, i added a component which only includes al
 X-Tensioner (just to make one M3-head flush with the print)
 - from V4 to V6 there are changes in the X and Y tensioner. Both clamps now feature copper pressfit bushings, and M3 rods. If you started printing already, you only have to watch out for "Y-Tensioner Clamp long v2" and "X-Tensioner Clamp v2".
 
+This is the SKR Pico in front, with the Pi Zero (2) W mount underneath the bed. This is for either Klipper or Octoprint (for Octoprint you can use the AIO II plus the Pi Zero (2) W, and dont need the BTT SKR Pico)
 ![image](https://github.com/eponra/flatpack/assets/66600478/547bc4dd-6dbe-42ce-bef9-508abe11d8c5)
 
 
