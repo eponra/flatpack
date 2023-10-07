@@ -89,6 +89,8 @@ to add the extra screws for the base, i added a component which only includes al
 X-Tensioner (just to make one M3-head flush with the print)
 - from V4 to V6 there are changes in the X and Y tensioner. Both clamps now feature copper pressfit bushings, and M3 rods. If you started printing already, you only have to watch out for "Y-Tensioner Clamp long v2" and "X-Tensioner Clamp v2".
 
+![image](https://github.com/eponra/flatpack/assets/66600478/547bc4dd-6dbe-42ce-bef9-508abe11d8c5)
+
 
 ###### A few words of gratitude:
 
