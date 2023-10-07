@@ -5,6 +5,7 @@
   - FYSETC AIO II
   - 45,30€
   - https://www.aliexpress.com/item/32331322896.html
+  - (you can now also go BTT SKR Pico + Pi Zero (2) W (then you dont need the AIO II), OR only + Pi Zero (2) W WITH the AIO II, for using Klipper)
 
 - [ ]  **Extruder**
   - Mellow Sherpa Mini, 63,14€
