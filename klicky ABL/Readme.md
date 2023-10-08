@@ -1,8 +1,8 @@
 ## Klicky On Flatpack
 
 #### NOTES
--Since the Z on this printer moves, if you power off the printer at anywhere but Z0, the hotend wont be able to grab the probe as it uses it to home Z I havent found a solution yet so let me know if you have any ideas
--You lose a tiny bit of build volume
+- Since the Z on this printer moves, if you power off the printer at anywhere but Z0, the hotend wont be able to grab the probe as it uses it to home Z I havent found a solution yet so let me know if you have any ideas
+- You lose a tiny bit of build volume
 
 
 
