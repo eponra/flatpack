@@ -43,9 +43,9 @@ in place there by magnets, just like on the head.
 - i dont have any instructions on how to add this to Marlin or Klipper yet. 
 
 ### Screenshots
-![image](https://github.com/eponra/flatpack/assets/66600478/78b35a6e-ea56-4f63-98cc-964a63751631)
-![image](https://github.com/eponra/flatpack/assets/66600478/ace18b7e-3422-4c96-8d8c-15b54a02445f)
-![image](https://github.com/eponra/flatpack/assets/66600478/618e20a7-8edf-43ca-bfca-28c1676c793a)
-![image](https://github.com/eponra/flatpack/assets/66600478/9e9ecbf9-37b7-4a25-8b06-40abed9198a3)
+![image](https://github.com/eponra/flatpack/assets/66600478/78b35a6e-ea56-4f63-98cc-964a63751631)  
+![image](https://github.com/eponra/flatpack/assets/66600478/ace18b7e-3422-4c96-8d8c-15b54a02445f)  
+![image](https://github.com/eponra/flatpack/assets/66600478/618e20a7-8edf-43ca-bfca-28c1676c793a)  
+![image](https://github.com/eponra/flatpack/assets/66600478/9e9ecbf9-37b7-4a25-8b06-40abed9198a3)  
 ![image](https://github.com/eponra/flatpack/assets/66600478/bd96024e-af9e-48c1-81dc-a8b8d6352a87)
 
