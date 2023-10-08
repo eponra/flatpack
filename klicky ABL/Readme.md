@@ -51,22 +51,22 @@ and then you need to trim a hole in the duct for the wires to run out past the f
 Instructions based on Marlin 2.1.2.1
     If you are using Klipper, there are guides online
     Used this as a reference https://www.youtube.com/watch?v=egWpvaTsl10
-    - **Configuration.h**
-        - Uncomment #define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
-        - Uncomment #define FIX_MOUNTED_PROBE
-        - Uncomment #define NOZZLE_TO_PROBE_OFFSET { 21.4, -11.4, -10.75} (Those are my offset values in order of XYZ)
-        - Set #define PROBING_MARGIN to 15
-        - Set #define Z_CLEARANCE_DEPLOY_PROBE 0 and #define Z_CLEARANCE_BETWEEN_PROBES 5
-        - Make sure #define Z_PROBE_LOW_POINT is set to -5 
-        - Uncomment #define RESTORE_LEVELING_AFTER_G28
-        - Uncomment #define LCD_BED_LEVELING
-        - Uncomment #define Z_SAFE_HOMING
-        - Uncomment #define AUTO_BED_LEVELING_BILINEAR
-        - If you want, you can uncomment this to test your mesh #define G26_MESH_VALIDATION
-        - Set  #define GRID_MAX_POINTS_X to 5
-    - **Configuration_adv.h**
-        - These are all your macros for abl, you may have to change the values depending on where your mount is
-        - Here are my custom macros: 
+    - **Configuration.h**  
+        - Uncomment #define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN  
+        - Uncomment #define FIX_MOUNTED_PROBE  
+        - Uncomment #define NOZZLE_TO_PROBE_OFFSET { 21.4, -11.4, -10.75} (Those are my offset values in order of XYZ)  
+        - Set #define PROBING_MARGIN to 15  
+        - Set #define Z_CLEARANCE_DEPLOY_PROBE 0 and #define Z_CLEARANCE_BETWEEN_PROBES 5  
+        - Make sure #define Z_PROBE_LOW_POINT is set to -5   
+        - Uncomment #define RESTORE_LEVELING_AFTER_G28  
+        - Uncomment #define LCD_BED_LEVELING  
+        - Uncomment #define Z_SAFE_HOMING  
+        - Uncomment #define AUTO_BED_LEVELING_BILINEAR  
+        - If you want, you can uncomment this to test your mesh #define G26_MESH_VALIDATION  
+        - Set  #define GRID_MAX_POINTS_X to 5  
+    - **Configuration_adv.h** 
+        - These are all your macros for abl, you may have to change the values depending on where your mount is  
+        - Here are my custom macros:   
 > ; Macros
 > ; M810 Home XY  and deploy probe
 > M810 G28 XY|G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 Y25 Z12.62 F2400
@@ -81,8 +81,8 @@ Instructions based on Marlin 2.1.2.1
 
 - Uncomment #define STARTUP_COMMANDS and put your macros like this (in one line, seperated by \n and in quotes)
 **"M810 G28 XY|G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 Y25 Z12.62 F2400**
->                                                                         \nM811 G28 XYZ|G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 X50 Y6 Z12.62 F2400
->                                                                         \nM812 |G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 X50 Y6 Z12.62 F2400"
+>    \nM811 G28 XYZ|G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 X50 Y6 Z12.62 F2400
+>    \nM812 |G1 Z12.62|G1 X2|G1 Y11 F2400|G1 X2 Y6 Z12.62 F1200|G1 X50 Y6 Z12.62 F2400"
    - Uncomment #define GCODE_MACROS
    - Set #define GCODE_MACROS_SLOT_SIZE to 150
    - Uncomment #define CUSTOM_MENU_MAIN 
