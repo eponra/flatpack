@@ -49,8 +49,8 @@ and then you need to trim a hole in the duct for the wires to run out past the f
   
   ### 4. Firmware
 Instructions based on Marlin 2.1.2.1
-    If you are using Klipper, there are guides online
-    Used this as a reference https://www.youtube.com/watch?v=egWpvaTsl10
+    If you are using Klipper, there are guides online  
+    Used this as a reference https://www.youtube.com/watch?v=egWpvaTsl10  
     - **Configuration.h**  
         - Uncomment #define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN  
         - Uncomment #define FIX_MOUNTED_PROBE  
