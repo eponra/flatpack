@@ -9,7 +9,7 @@ as it uses it to home Z I havent found a solution yet so let me know if you have
 ### 1. Printed Parts
  - You need 3 parts for this
  - The **duct**, the standard **probe holder**, and the **probe dock**
- - All 3 parts should be printed in asa or abs as they are near the hotend and bed
+ - All 3 parts should be printed in asa or abs as they are near the hotend and bed  
     **Duct:**
     - The duct has 3 holes for magnets which you need to press wires into, just the 2 connected to the switch,  
 and then you need to trim a hole in the duct for the wires to run out past the fan  
