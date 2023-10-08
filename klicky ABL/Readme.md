@@ -124,8 +124,8 @@ Instructions based on Marlin 2.1.2.1
    - You can also use an sd card to run the commands on startup, but I like to use eeprom to store them  
    - I'd reccomend watching teaching techs video on this, as it goes into more detail  
         
-   ** Thats all! You can now put these commands in your start gcode and it will probe automatically  
-   Message me if you have any questions :) **  
+  ## Thats all! You can now put these commands in your start gcode and it will probe automatically  
+   Message me if you have any questions :)  
      
   
 Start Gcode:   
