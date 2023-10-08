@@ -125,7 +125,7 @@ Instructions based on Marlin 2.1.2.1
    - I'd reccomend watching teaching techs video on this, as it goes into more detail  
         
   ## Thats all! You can now put these commands in your start gcode and it will probe automatically  
-   Message me if you have any questions :)  
+   Message me if you have any questions :)   
      
   
 Start Gcode:   
