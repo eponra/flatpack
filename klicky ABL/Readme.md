@@ -91,43 +91,43 @@ Instructions based on Marlin 2.1.2.1
    - Uncomment #define CUSTOM_MENU_MAIN 
    
 ## These are my menu Items :
-> // Custom Menu: Main Menu
-> #define CUSTOM_MENU_MAIN
-> #if ENABLED(CUSTOM_MENU_MAIN)
-> #define CUSTOM_MENU_MAIN_TITLE "Klicky Probe"
-> //#define CUSTOM_MENU_MAIN_SCRIPT_DONE ""
-> #define CUSTOM_MENU_MAIN_SCRIPT_AUDIBLE_FEEDBACK
-> //#define CUSTOM_MENU_MAIN_SCRIPT_RETURN   // Return to status screen after a script
-> #define CUSTOM_MENU_MAIN_ONLY_IDLE         // Only show custom menu when the machine is idle
->
-> #define MAIN_MENU_ITEM_1_DESC "Deploy Probe"
-> #define MAIN_MENU_ITEM_1_GCODE "M810"
-> //#define MAIN_MENU_ITEM_1_CONFIRM          // Show a confirmation dialog before this action
->
-> #define MAIN_MENU_ITEM_2_DESC "Stow Probe" 
-> #define MAIN_MENU_ITEM_2_GCODE "M811"
->  //#define MAIN_MENU_ITEM_2_CONFIRM
->
-> #define MAIN_MENU_ITEM_3_DESC "Stow Probe Without Homing"
-> #define MAIN_MENU_ITEM_3_GCODE "M812"
-> //#define MAIN_MENU_ITEM_3_CONFIRM
->
-> #define MAIN_MENU_ITEM_4_DESC "Deploy and Home"
-> #define MAIN_MENU_ITEM_4_GCODE "M810\nG28 Z"
-> //#define MAIN_MENU_ITEM_4_CONFIRM
->
-> #define MAIN_MENU_ITEM_5_DESC "Deploy and Probe Bed"
-> #define MAIN_MENU_ITEM_5_GCODE "M810\nG28 Z\nG29"
-> //#define MAIN_MENU_ITEM_5_CONFIRM
-> #endif
+> // Custom Menu: Main Menu  
+> #define CUSTOM_MENU_MAIN  
+> #if ENABLED(CUSTOM_MENU_MAIN)  
+> #define CUSTOM_MENU_MAIN_TITLE "Klicky Probe"  
+> //#define CUSTOM_MENU_MAIN_SCRIPT_DONE ""  
+> #define CUSTOM_MENU_MAIN_SCRIPT_AUDIBLE_FEEDBACK  
+> //#define CUSTOM_MENU_MAIN_SCRIPT_RETURN   // Return to status screen after a script  
+> #define CUSTOM_MENU_MAIN_ONLY_IDLE         // Only show custom menu when the machine is idle  
+>  
+> #define MAIN_MENU_ITEM_1_DESC "Deploy Probe"  
+> #define MAIN_MENU_ITEM_1_GCODE "M810"  
+> //#define MAIN_MENU_ITEM_1_CONFIRM          // Show a confirmation dialog before this action  
+>  
+> #define MAIN_MENU_ITEM_2_DESC "Stow Probe"  
+> #define MAIN_MENU_ITEM_2_GCODE "M811"  
+>  //#define MAIN_MENU_ITEM_2_CONFIRM  
+>  
+> #define MAIN_MENU_ITEM_3_DESC "Stow Probe Without Homing"  
+> #define MAIN_MENU_ITEM_3_GCODE "M812"  
+> //#define MAIN_MENU_ITEM_3_CONFIRM  
+>  
+> #define MAIN_MENU_ITEM_4_DESC "Deploy and Home"  
+> #define MAIN_MENU_ITEM_4_GCODE "M810\nG28 Z"  
+> //#define MAIN_MENU_ITEM_4_CONFIRM  
+> 
+> #define MAIN_MENU_ITEM_5_DESC "Deploy and Probe Bed"  
+> #define MAIN_MENU_ITEM_5_GCODE "M810\nG28 Z\nG29"  
+> //#define MAIN_MENU_ITEM_5_CONFIRM  
+> #endif  
         
-   - You can also use an sd card to run the commands on startup, but I like to use eeprom to store them
-   - I'd reccomend watching teaching techs video on this, as it goes into more detail
+   - You can also use an sd card to run the commands on startup, but I like to use eeprom to store them  
+   - I'd reccomend watching teaching techs video on this, as it goes into more detail  
         
-   **Thats all! You can now put these commands in your start gcode and it will probe automatically
-   Message me if you have any questions :) **
-   
-
+   **Thats all! You can now put these commands in your start gcode and it will probe automatically  
+   Message me if you have any questions :) **  
+     
+  
 Start Gcode:   
 
 M810
