@@ -64,9 +64,11 @@ Instructions based on Marlin 2.1.2.1
           - Uncomment #define AUTO_BED_LEVELING_BILINEAR  
           - If you want, you can uncomment this to test your mesh #define G26_MESH_VALIDATION  
           - Set  #define GRID_MAX_POINTS_X to 5  
-    ### - **Configuration_adv.h** 
+    ### - **Configuration_adv.h**  
           - These are all your macros for abl, you may have to change the values depending on where your mount is  
-        - Here are my custom macros:   
+  
+
+#### Here are my custom macros:   
 
 > ; Macros
 > ; M810 Home XY  and deploy probe
