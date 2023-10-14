@@ -132,6 +132,13 @@
   - its not really important which one you choose, but they have to be 10mm in height, and can be up to 23mm in width
   - you can ofc simply design your own foot, or cut something to size that fit the existing feet, and add the 10mm in height
 
+- [ ]  **Optional: for the tool mount you will need** 
+  - a 6x2mm neodym magnet
+  - another m3 nut and screw
+  - a 2.5mm allen key
+  - a nozzle spanner, they´re mostly all the same, i link here the twotrees one
+  - https://www.aliexpress.com/item/4000601733774.html
+
 **All-in-all that's 388,30€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
