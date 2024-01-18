@@ -113,9 +113,9 @@
   - 0,84€ for 5
   - https://www.aliexpress.com/item/4000434289043.html
 
-- [ ]  **4x copper bushings, 3x5x2.1-7x0.6mm** 
-  - 4,71€ for 10
-  - https://www.aliexpress.com/item/1005004075528729.html
+- [ ]  **4x copper bushings, 3*5*2.1/7*0.6mm** 
+  - 1,92€ for 5
+  - https://www.aliexpress.com/item/1005005065448057.html
   - bushings you press into the x- and y-tensioner, to then push a 3mm rod through
 
 - [ ]  **2x 3mm steel rod, 100mm long** 
