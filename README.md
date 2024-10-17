@@ -81,7 +81,8 @@ Fusion 360. I also put up a version that only shows parts and positions of the h
 
 [Fusion 360 Web heated inserts](https://a360.co/3tjAQnn)
 
-The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1a2EOg3HK1r-n8Omy-1yQx4LHCDSig2ma/view)
+The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1WWorgIL0F1IlGSLJlwn24FICozzornDs/view)
+The link to the latest stable Fusion360 file (Ver7) is [here](https://drive.google.com/file/d/1Mac7FewMhGuZk7lCGxoMbQp6idila8Fw/view?usp=drive_link)
 
 ###### Changelog:
 - from V6 to V7 where changes made to the XZ-joiner, the left Frontmount (so that we can use a shorter front extrusion, this lets us use only 4 300mm 1515 extrusions), i added the screwingholes to the drawing so you know where
