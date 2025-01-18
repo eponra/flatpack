@@ -11,11 +11,14 @@ https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-
 
 ###### Small Announcement before we go on here:
 
-Mellow will make a fully machined adaptation of flatpack, this machine will be called the Mellow M1. Apart from still being able to be folded,
+Mellow has made a fully machined adaptation of flatpack, this machine is called the Mellow M1. Apart from still being able to be folded,
 it comes with:
 - a new board which is basically a Fly D5 and a Fly Pi Lite v2 married together on the size of the D5 (im very much looking forward
 to that board, apart from the cnc'ed adaption of my design is running Flipper ofc; they could do rrf, but we will see)
 - a 2.8" touchscreen at the bottom, and a 1.3" touchscreen at the hotend for quick filament changes and quick heating
+- a fully cnc'ed frame
+
+- here is the shoplink (no affiliation): https://a.aliexpress.com/_EHAE37a
 
 https://youtu.be/e8mjv9e-qzc (you see two prototypes here at TCT Asia)  
 https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52 (starting at the timestamp you see one prototype again)  
