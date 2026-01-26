@@ -79,15 +79,13 @@ As a result consider setting your print speeds and accelerations conservatively.
 
 ## Design files
 
-[Fusion 360 Web Flatpack](https://a360.co/3vLUHdm)
+[Fusion 360 Web Flatpack](https://gmail4759379.autodesk360.com/g/projects/20250115860085251/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uU3NZS2VmLVVTaWVoN2JlbjBxcnZJdw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOllGMjEyMU80U2ZXRU5LWi1DeVdHY1E/viewer)
 
-This link is sadly viewable only, as I am using the free version of Autodesk
-Fusion 360. I also put up a version that only shows parts and positions of the heated inserts. (Attention: the parts inside this are not the most recent, so dont print these.)
+This link is sadly viewable only, as I am using the free version of AutodeskFusion 360, and it shows you the most recent version v29.
+If you only want to see the positions of the heated inserts, choose the ver27 and open that for a view. (Attention: the parts inside this are not the most recent, so dont print these.)
 
-[Fusion 360 Web heated inserts](https://a360.co/3tjAQnn)
-
-The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1WWorgIL0F1IlGSLJlwn24FICozzornDs/view)
-The link to the latest stable Fusion360 file (Ver7) is [here](https://drive.google.com/file/d/1Mac7FewMhGuZk7lCGxoMbQp6idila8Fw/view?usp=drive_link)
+The link to the latest stable .step file (Ver7) is [here](https://drive.google.com/file/d/1A3y8ow9lfhon9to04TwPNZhs2E-N7nIU/view?usp=sharing)
+The link to the latest stable Fusion360 file (Ver7) is [here](https://drive.google.com/file/d/1aNTmq9SbC0A0kO9zOFXUs1ShJnivPaep/view?usp=sharing)
 
 ###### Changelog:
 - from V6 to V7 where changes made to the XZ-joiner, the left Frontmount (so that we can use a shorter front extrusion, this lets us use only 4 300mm 1515 extrusions), i added the screwingholes to the drawing so you know where
